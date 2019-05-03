@@ -24,7 +24,7 @@ By combining the classifiers, we can take the best of multiple models. Random Fo
 
 
 | Model | Precision | Recall | f1-score | Accuracy | AUC ROC | TP | FP | FN | TN |
-|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|
 | Random Forest | 0.99 | 0.82 | 0.90 | 0.9922 | 0.9743 | 75 | 1 | 16 | 2098 |
 | Logistic Regression | 0.65 | 0.88 | 0.74 | 0.9749 | 0.9721 | 80 | 44 | 11 | 2055 |
 | Decision Tree | 0.79 | 0.84 | 0.81 | 0.9840 | 0.9128 | 76 | 20 | 15 | 2079 |
