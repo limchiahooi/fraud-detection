@@ -34,6 +34,7 @@ In this project, we have used both supervised and unsupervised machine learning 
 <br>
 When we do not have labels for fraud cases (often in real life circumstances), we can use unsupervised machine learning  techniques to distinguish normal from abnormal (thus potentially fraudulent) behavior. This requires an understanding of what is "normal" and we need to have a good understanding of the data and its characteristics. It is important to point out that it is difficult to validate unsupervised machine learning model results with normal performance metrics (e.g. accuracy, prevision, recall) because we don't have the actual fraud labels, or the ground truth. But there are other ways to do so such as check with fraud analysts to help us validate and see whether the cases we flagged are indeed suspicious , investigate and describe cases that are flagged in more detail and use model on past known fraud cases to see whether the model can actually detect those historical fraud cases correctly.
 
+<br>
 If you have any feedback for this project, feel free to contact me via my [LinkedIn](https://www.linkedin.com/in/limchiahooi) or [GitHub Pages](https://limchiahooi.github.io).
 
 ---
